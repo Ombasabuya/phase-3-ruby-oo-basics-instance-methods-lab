@@ -1,8 +1,9 @@
 # class dog
 class Dog
-    #methods bark
+    # methods bark and sit
     def bark
         puts  "Woof!"
+        #method sit
         def sit
             puts "The Dog is sitting"
             end
